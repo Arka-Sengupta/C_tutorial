@@ -7,3 +7,4 @@ int main(){
     printf("%p\n",pAge); //so the pointer got the same address
     return 0;
 }
+//this is a comment
